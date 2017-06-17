@@ -47,7 +47,7 @@ public class ViewPanel extends JPanel{
                     repaint();
                     revalidate();
                 }
-            }, 500, 500);
+            }, 300, 300);
         }
         catch (IOException e)
         {
